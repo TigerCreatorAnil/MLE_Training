@@ -2,6 +2,7 @@ Github PR url: https://github.com/TigerCreatorAnil/mle-training/pull/6
 Github issue reference: https://github.com/TigerCreatorAnil/mle-training/issues/5
 
 ###User settings 
+
 {
     // Enable Flake8 as linter for python
     "python.linting.flake8Enabled": true,
@@ -40,6 +41,8 @@ Github issue reference: https://github.com/TigerCreatorAnil/mle-training/issues/
 }
 
 ###Workspace settings
+
+
 {
     "python.pythonPath": "/root/conda/envs/mle-dev/bin/python",
     "editor.formatOnSave": true,
